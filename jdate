@@ -2,6 +2,16 @@
 <?php
 
 class test{
+// my code starts from first line
+
+$name = $_GET['name'];
+$family = $_GET['family'];
+
+
+
+$db = mysql_connect('localhost','root','');
+
+
 
 
 }
