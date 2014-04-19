@@ -23,5 +23,12 @@ function reza(){
 
 
 class Reza{
+ function(){}
 
+}
+
+
+
+class Ali{
+ 
 }
