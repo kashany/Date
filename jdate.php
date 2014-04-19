@@ -32,3 +32,7 @@ class Reza{
 class Ali{
  
 }
+
+class D.Moradian{
+ echo 'yoohoo!';
+}
