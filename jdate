@@ -4,13 +4,14 @@
 class test{
 // my code starts from first line
 
-$name = $_GET['name'];
-$family = $_GET['family'];
+$name = $_GET['family'];
+$family = $_GET['name'];
 
 
 
 $db = mysql_connect('localhost','root','');
 
+mysql_select_db('alko');
 
 
 function reza(){
