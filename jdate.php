@@ -23,5 +23,6 @@ function reza(){
 
 
 class Reza{
+ function(){}
 
 }
